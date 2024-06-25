@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Kushwaha</h1>
-<h3 align="center">Enthusiastic about Machine Learning, Deep Learning and related domains</h3>
+<p align="center">
+<a href="https://github.com/Hyouteki" target="blank"> <img src="https://readme-typing-svg.herokuapp.com?color=7DF9FF&width=380&height=45&lines=Machine+Learning;Deep+Learning;Data+Science;Natural+Language+Processing;Nice+To+Meet+You+🙃&style=bold&center=true" alt="taking time to load" /></a>
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=happyskysky&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="happyskysky"/>&nbsp;<a href="https://twitter.com/akash_iiitd" target="blank"><img src="https://img.shields.io/twitter/follow/akash_iiitd?logo=twitter&style=for-the-badge" alt="akash_iiitd" /></a> </p>
 
