@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=skyscrappers&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="skyscrappers"/>&nbsp;<a href="https://twitter.com/akash_iiitd" target="blank"><img src="https://img.shields.io/twitter/follow/akash_iiitd?logo=twitter&style=for-the-badge" alt="akash_iiitd" /></a> </p>
 
-- 💬 Ask me about **AI/ML/DL/NLP**
+- 💬 Ask me about **AI/ML/DL/NLP/LLM**
 - 📫 How to reach me **catchonakash@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
